@@ -1,9 +1,9 @@
 package lol.skydash.stoneyingotaxi.utils;
 
-import lol.skydash.stoneyingotaxi.init.RegisterItems;
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.init.Items;
 import net.minecraft.item.Item;
+
+import lol.skydash.stoneyingotaxi.init.RegisterItems;
 
 public class ShovelaxiTabIngot extends CreativeTabs {
 
